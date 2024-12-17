@@ -1,0 +1,13 @@
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\bin\Debug\FrmTableName.exe.config
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\bin\Debug\FrmTableName.exe
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\bin\Debug\FrmTableName.pdb
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\bin\Debug\System.Data.SqlClient.dll
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\bin\Debug\System.Data.SqlClient.xml
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\obj\Debug\FrmTableName.csproj.AssemblyReference.cache
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\obj\Debug\FrmTableName.Form1.resources
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\obj\Debug\FrmTableName.Properties.Resources.resources
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\obj\Debug\FrmTableName.csproj.GenerateResource.cache
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\obj\Debug\FrmTableName.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\obj\Debug\FrmTable.A16ED0C5.Up2Date
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\obj\Debug\FrmTableName.exe
+C:\Users\bryan\source\repos\FrmTableName\FrmTableName\obj\Debug\FrmTableName.pdb
